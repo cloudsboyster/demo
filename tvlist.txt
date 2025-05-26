@@ -25,7 +25,6 @@ CCTV11-戏曲,http://118.250.149.102:8082/hls/12/index.m3u8
 CCTV12-社会与法,http://113.25.252.226:9901/tsfile/live/0012_1.m3u8
 CCTV12-社会与法,http://118.250.149.102:8082/hls/13/index.m3u8
 CCTV13-新闻,http://113.25.252.226:9901/tsfile/live/0013_1.m3u8
-CCTV13-新闻,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV13-新闻,http://118.250.149.102:8082/hls/14/index.m3u8
 CCTV14-少儿,http://113.25.252.226:9901/tsfile/live/0014_1.m3u8
 CCTV14-少儿,http://118.250.149.102:8082/hls/15/index.m3u8
