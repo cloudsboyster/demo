@@ -70,4 +70,5 @@ CGTN,http://42.225.117.174:11199/tsfile/live/0015_2.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
+凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
 
