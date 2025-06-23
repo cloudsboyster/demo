@@ -175,6 +175,7 @@ CCTV10,http://39.134.67.108/PLTV/88888888/224/3221226128/1.m3u8
 安徽卫视,http://113.25.252.226:9901/tsfile/live/0130_1.m3u8
 
 凤凰台,#genre#
+凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
@@ -182,7 +183,6 @@ CCTV10,http://39.134.67.108/PLTV/88888888/224/3221226128/1.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
-凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
 
 New TV,#genre#
 黑莓电影,http://39.134.64.87:6610/PLTV/88888888/224/3221225743/index.m3u8?IASHttpSessionId=
